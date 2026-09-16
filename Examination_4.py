@@ -7,4 +7,13 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-score = int(input())
+score = int(input("กรุณากรอกคะเเนน"))
+if : score >=80
+   print("ได้เกรด A")
+elif : score >=70
+   print("ได้เกรดC")
+elif : score >=50
+   print("ได้เกรดD")
+else : 
+   print("ได้เกรดF")
+
